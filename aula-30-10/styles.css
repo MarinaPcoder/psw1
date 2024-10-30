@@ -1,0 +1,31 @@
+body {
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(131, 72, 72);
+}
+
+h1#TIITULO {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(53, 20, 35);
+}
+
+main#portifolio {
+    display: flex;
+}
+
+div.conteudo {
+    background-color: rgb(203, 153, 153);
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    display: inline-flex;
+}
+
+h2 {
+    margin-top: 0px;
+}
